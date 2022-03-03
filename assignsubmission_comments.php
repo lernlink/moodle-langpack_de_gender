@@ -26,4 +26,4 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['blindmarkingname'] = 'Teilnehmer*in {$a}';
 $string['blindmarkingviewfullname'] = 'Teilnehmer*in {$a->participantnumber} ({$a->participantfullname})';
-$string['enabled_help'] = 'Die Option legt fest, dass Teilnehmer*innen zu ihrer abgegebenen Lösung einen Kommentar hinterlegen können, um z.B. ergänzende Hinweise zu abgegebenen Dateien erstellen zu können.';
+$string['enabled_help'] = 'Die Option legt fest, dass Teilnehmer\\*innen zu ihrer abgegebenen Lösung einen Kommentar hinterlegen können, um z.B. ergänzende Hinweise zu abgegebenen Dateien erstellen zu können.';

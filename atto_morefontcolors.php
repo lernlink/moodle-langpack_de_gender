@@ -24,4 +24,4 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['setting_custom_desc'] = 'Nutzer*innen dürfen eine eigene Schriftfarbe über eine Farbauswahl festlegen.';
+$string['setting_custom_desc'] = 'Nutzer\\*innen dürfen eine eigene Schriftfarbe über eine Farbauswahl festlegen.';

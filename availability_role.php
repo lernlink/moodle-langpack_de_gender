@@ -24,5 +24,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['setting_supportguestrole_desc'] = 'Wenn diese Option aktiviert ist, kann die Voraussetzung auch für Nutzer*innen gesetzt werden, die den Kurs als Gast betrachten.';
-$string['setting_supportnotloggedinrole_desc'] = 'Wenn diese Option aktiviert ist, kann die Voraussetzung auch für Nutzer*innen gesetzt werden, die in Moodle nicht eingeloggt sind.';
+$string['setting_supportguestrole_desc'] = 'Wenn diese Option aktiviert ist, kann die Voraussetzung auch für Nutzer\\*innen gesetzt werden, die den Kurs als Gast betrachten.';
+$string['setting_supportnotloggedinrole_desc'] = 'Wenn diese Option aktiviert ist, kann die Voraussetzung auch für Nutzer\\*innen gesetzt werden, die in Moodle nicht eingeloggt sind.';

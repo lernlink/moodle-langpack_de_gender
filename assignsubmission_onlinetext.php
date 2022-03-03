@@ -24,5 +24,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['enabled_help'] = 'Diese Methode ermöglicht den Teilnehmer*innen die Lösung direkt in einem Texteingabefeld mit Editor einzutragen.';
+$string['enabled_help'] = 'Diese Methode ermöglicht den Teilnehmer\\*innen die Lösung direkt in einem Texteingabefeld mit Editor einzutragen.';
 $string['privacy:metadata:submissionpurpose'] = 'Abgabe ID, die die Abgabe mit dem*der Nutzer*in verbindet.';

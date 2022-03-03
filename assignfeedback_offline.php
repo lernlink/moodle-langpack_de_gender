@@ -24,5 +24,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['enabled_help'] = 'Wenn diese Option aktiviert wird, können Trainer*innen eine Bewertungstabelle herunterladen, offline alle Bewertungen für die Teilnehmer*innen ausfüllen und später die Bewertungstabelle wieder hochladen.';
+$string['enabled_help'] = 'Wenn diese Option aktiviert wird, können Trainer\\*innen eine Bewertungstabelle herunterladen, offline alle Bewertungen für die Teilnehmer\\*innen ausfüllen und später die Bewertungstabelle wieder hochladen.';
 $string['privacy:nullproviderreason'] = 'Dieses Plugin verfügt über keine Datenbank zur Speicherung von Nutzer*innendaten. Es ist eine API in mood_assign zur Unterstützung bei der Bewertungsanzeige';

@@ -24,4 +24,4 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['enabled_help'] = 'Nach der Aktivierung können Trainer*innen bei der Bewertung kommentierte PDF-Dateien für die eingereichten Lösungen erstellen. Kommentare, Korrekturen, Kennzeichnungen und \'Stempel\' können direkt in der Lösung des*der Teilnehmenden erstellt werden. Dies erfolgt direkt im Browser ohne Zusatzssoftware.';
+$string['enabled_help'] = 'Nach der Aktivierung können Trainer\\*innen bei der Bewertung kommentierte PDF-Dateien für die eingereichten Lösungen erstellen. Kommentare, Korrekturen, Kennzeichnungen und \'Stempel\' können direkt in der Lösung des\\*der Teilnehmenden erstellt werden. Dies erfolgt direkt im Browser ohne Zusatzssoftware.';

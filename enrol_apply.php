@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['apply:unenrol'] = 'Nutzer*innen aus dem Kurs entfernen';
-$string['confirmusers_desc'] = 'Nutzer*innen in grau markierten Zeilen sind auf der Warteliste.';
+$string['confirmusers_desc'] = 'Nutzer\\*innen in grau markierten Zeilen sind auf der Warteliste.';
 $string['enrolusers'] = 'Nutzer*innen manuell einschreiben';
-$string['pluginname_desc'] = 'Mit diesem Plugin können Nutzer*innen die Einschreibung in einen Kurs beantragen. Die Trainer*innen des Kurses müssen die Einschreibung bestätigen.';
-$string['status_desc'] = 'Kurszugriff für intern eingeschriebene Nutzer*innen erlauben.';
+$string['pluginname_desc'] = 'Mit diesem Plugin können Nutzer\\*innen die Einschreibung in einen Kurs beantragen. Die Trainer*innen des Kurses müssen die Einschreibung bestätigen.';
+$string['status_desc'] = 'Kurszugriff für intern eingeschriebene Nutzer\\*innen erlauben.';

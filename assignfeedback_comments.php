@@ -24,5 +24,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['enabled_help'] = 'Bewerter*innen können Feedback-Kommentare für jede abgegebene Lösung erstellen, wenn die Funktion aktiviert wird.';
+$string['enabled_help'] = 'Bewerter\\*innen können Feedback-Kommentare für jede abgegebene Lösung erstellen, wenn die Funktion aktiviert wird.';
 $string['privacy:metadata:filepurpose'] = 'Feedback-Dateien des*der Trainer*in für den*die Teilnehmer*in';

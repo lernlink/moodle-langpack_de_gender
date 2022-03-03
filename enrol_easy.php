@@ -24,5 +24,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['enrolenddate_help'] = 'Teilnehmer*innen können sich nach diesem Datum nicht mehr einschreiben';
-$string['enrolstartdate_help'] = 'Teilnehmer*innen können sich vor diesem Datum noch nicht einschreiben';
+$string['enrolenddate_help'] = 'Teilnehmer\\*innen können sich nach diesem Datum nicht mehr einschreiben';
+$string['enrolstartdate_help'] = 'Teilnehmer\\*innen können sich vor diesem Datum noch nicht einschreiben';

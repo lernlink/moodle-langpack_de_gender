@@ -24,5 +24,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['enabled_help'] = 'Teilnehmer*innen können eine oder mehrere Dateien als Lösung der Aufgabe einreichen wenn dies aktiviert wird.';
-$string['maxfilessubmission_help'] = 'Wenn die Abgabe von Dateien als Lösung der Aufgabe gewählt wird, wird hier festgelegt wie viele Dateien je Teilnehmer*in hochgeladen werden können.';
+$string['enabled_help'] = 'Teilnehmer\\*innen können eine oder mehrere Dateien als Lösung der Aufgabe einreichen wenn dies aktiviert wird.';
+$string['maxfilessubmission_help'] = 'Wenn die Abgabe von Dateien als Lösung der Aufgabe gewählt wird, wird hier festgelegt wie viele Dateien je Teilnehmer\\*in hochgeladen werden können.';

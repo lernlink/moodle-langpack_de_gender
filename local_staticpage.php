@@ -24,5 +24,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['forcelogin_desc'] = 'Statische Seiten sollen nur für eingeloggte Benutzer*innen oder auch für nicht-eingeloggte Benutzer*innen zugänglich sein. Das Verhalten kann hier dediziert für statische Seiten gesetzt werden oder wahlweise so konfiguriert werden, dass die globale Einstellung "Anmeldung notwendig" von Moodle auch auf statische Seiten angewendet wird.';
+$string['forcelogin_desc'] = 'Statische Seiten sollen nur für eingeloggte Benutzer\\*innen oder auch für nicht-eingeloggte Benutzer*innen zugänglich sein. Das Verhalten kann hier dediziert für statische Seiten gesetzt werden oder wahlweise so konfiguriert werden, dass die globale Einstellung "Anmeldung notwendig" von Moodle auch auf statische Seiten angewendet wird.';
 $string['privacy:metadata'] = 'Das Plugin \'Statische Seiten\' bietet Moodle-Administrator*innen erweiterte Funktionalitäten an, speichert aber keine personenbezogenen Daten.';
