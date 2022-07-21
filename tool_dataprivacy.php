@@ -24,7 +24,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['automaticdeletionrequests_desc'] = 'Wenn diese Option aktiviert ist, wird automatisch eine Abfrage zur Datenlöschung für alle bereits manuell gelöschten Nutzer\\*innenkonten erzeugt.';
+$string['automaticdeletionrequests_desc'] = 'Wenn diese Option aktiviert ist, wird automatisch eine Abfrage zur Datenlöschung für alle bereits manuell gelöschten Nutzendenkonten erzeugt.';
 $string['categorydefault_help'] = 'Die Standardkategorie wird allen neuen Instanzen als Standardwert zugewiesen. Wenn vererben gewählt ist, wird die Datenkategorie der darüber liegenden Ebene zugewiesen. Kontexte sind (von unten nach oben): Block > Aktivitätsmodul > Kurs > Kursbereich > Nutzer\\*in > Website';
 $string['category_help'] = 'Eine Kategorie in der Datenregistrierung beschreibt einen Datentyp/Datenkategorie. Eine neue Kategorie kann hinzugefügt werden. Wenn \'vererben\' ausgewählt ist, wird eine Kategorie von der darüberliegenden Ebene gewählt. Kontexte sind (von unten nach oben): Block > Aktivitätsmodul > Kurs > Kursbereich > Nutzer\\*in > Website';
 $string['confirmcompletion'] = 'Möchten Sie wirklich diese Nutzer*inanfrage als erledigt markieren?';
@@ -51,5 +51,5 @@ $string['requireallenddatesforuserdeletion_desc'] = 'Beim Ablauf werden verschie
 $string['resultdeleted'] = 'Sie haben kürzlich darum gebeten Ihren persönlichen Nutzer*inaccount und alle persönlichen Daten auf {$a} zu löschen. Dieser Prozess wurde inzwischen abgeschlossen. Sie können sich nicht mehr einloggen.';
 $string['retentionperiod_help'] = 'Die Speicherdauer legt fest wie lange Daten gespeichert werden sollen. Wenn die Speicherdauer abgelaufen ist, werden die Daten zum Löschen gekennzeichnet und ein\\*e Administrator\\*in kann dies bestätigen.';
 $string['roleoverrideoverview'] = 'Die Standardfestlegung für die Löschregeln für spezifische Nutzerrollen kann überschrieben werden falls diese länger oder kürzer sein sollen. Ein Nutzer*inaccount gilt nur als abgelaufen wenn alle seine Rollen als abgelaufen gelten.';
-$string['showdataretentionsummary_desc'] = 'Wenn diese Option aktiviert ist, wird ein Link zur den Fristen zur Datenlöschung im Footer-Bereich der Website und in Nutzer\\*innenprofilseiten angezeigt.';
+$string['showdataretentionsummary_desc'] = 'Wenn diese Option aktiviert ist, wird ein Link zur den Fristen zur Datenlöschung im Footer-Bereich der Website und in Nutzendenprofilseiten angezeigt.';
 $string['user'] = 'Nutzer*in';

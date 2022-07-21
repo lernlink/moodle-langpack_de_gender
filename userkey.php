@@ -34,4 +34,4 @@ $string['privacy:metadata:user_private_key:script'] = 'Das Script, das für den 
 $string['privacy:metadata:user_private_key:userid'] = 'Nutzer*in mit dem*der der Schlüssel verbunden ist.';
 $string['userkey'] = 'Nutzer*innenschlüssel';
 $string['userkeys'] = 'Nutzer*innenschlüssel';
-$string['userkey_help'] = 'Wählen Sie einen gespeicherten Schlüssel aus, der die Nutzer\\*innen auf die von diesem Export-Plugin veröffentlichten Daten zugreifen lässt, ohne sich in Moodle einzuloggen. Wählen Sie "Neuen Nutzer\\*innenschlüssel anlegen", um einen neuen Schlüssel bei der Übertragung dieses Formulars zu erzeugen.';
+$string['userkey_help'] = 'Wählen Sie einen gespeicherten Schlüssel aus, der die Nutzer\\*innen auf die von diesem Export-Plugin veröffentlichten Daten zugreifen lässt, ohne sich in Moodle einzuloggen. Wählen Sie "Neuen Nutzendenschlüssel anlegen", um einen neuen Schlüssel bei der Übertragung dieses Formulars zu erzeugen.';

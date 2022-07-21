@@ -24,5 +24,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname_help'] = 'Aus Nutzer\\*insicht sehen numerische Fragen wie gewöhnliche Kurztextfragen aus. Der Unterschied liegt darin, dass numerische Fragen mit einer Fehlertoleranz versehen werden können. Beispiel: Ist die Antwort 10 und die Fehlertoleranz liegt bei 2, so sind alle Antworten von 8 bis 12 richtig.';
+$string['pluginname_help'] = 'Aus Nutzendensicht sehen numerische Fragen wie gewöhnliche Kurztextfragen aus. Der Unterschied liegt darin, dass numerische Fragen mit einer Fehlertoleranz versehen werden können. Beispiel: Ist die Antwort 10 und die Fehlertoleranz liegt bei 2, so sind alle Antworten von 8 bis 12 richtig.';
 $string['privacy:metadata'] = 'Das Plugin "Numerischer Fragentyp" erlaubt es Frageautor*innen, standardmäßige Optionen als Nutzer*ineinstellungen zu setzen.';

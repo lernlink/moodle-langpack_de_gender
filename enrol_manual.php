@@ -26,10 +26,10 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['browseusers'] = 'Nutzer*innen anzeigen';
 $string['confirmbulkdeleteenrolment'] = 'Möchten Sie diese Nutzer*ineinschreibungen wirklich löschen?';
-$string['defaultperiod_help'] = 'Die Teilnahmedauer ist die Zeitdauer, während der die Einschreibung gültig bleibt, beginnend mit dem Moment der Nutzer\\*ineinschreibung. Wenn diese Option deaktiviert ist, ist die Teilnahmedauer unbegrenzt.';
+$string['defaultperiod_help'] = 'Die Teilnahmedauer ist die Zeitdauer, während der die Einschreibung gültig bleibt, beginnend mit dem Moment der Nutzendeneinschreibung. Wenn diese Option deaktiviert ist, ist die Teilnahmedauer unbegrenzt.';
 $string['enrolusers'] = 'Nutzer*innen einschreiben';
 $string['enroluserscohorts'] = 'Ausgewählte Nutzer*innen und globale Gruppen einschreiben';
-$string['expiredaction_help'] = 'Wählen Sie, welche Aktion ausgeführt werden soll, wenn die Nutzer\\*inneneinschreibung abläuft. Bitte beachten Sie bitte, dass bei der Kursabmeldung Nutzer\\*indaten und -einstellungen gelöscht werden.';
+$string['expiredaction_help'] = 'Wählen Sie, welche Aktion ausgeführt werden soll, wenn die Nutzendeneinschreibung abläuft. Bitte beachten Sie bitte, dass bei der Kursabmeldung Nutzendendaten und -einstellungen gelöscht werden.';
 $string['expirymessageenrollerbody'] = 'Guten Tag, im Kurs \'{$a->course}\' läuft für folgende Nutzer*in*nen innerhalb der nächsten {$a->threshold} die Einschreibung ab: {$a->users} Sie können auf der folgenden Seite die Einschreibedauer verlängern: {$a->extendurl} Ihr E-Learning Team';
 $string['manual:enrol'] = 'Nutzer*innen einschreiben';
 $string['manual:manage'] = 'Nutzer*ineinschreibung verwalten';

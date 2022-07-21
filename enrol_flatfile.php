@@ -24,7 +24,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['expiredaction_help'] = 'Wählen Sie, was passieren soll, wenn die Nutzer\\*inneneinschreibung abläuft. Beachten Sie, dass einige Nutzer\\*innendaten und -einstellungen bei der Kursabmeldung gelöscht werden.';
+$string['expiredaction_help'] = 'Wählen Sie, was passieren soll, wenn die Nutzendeneinschreibung abläuft. Beachten Sie, dass einige Nutzendendaten und -einstellungen bei der Kursabmeldung gelöscht werden.';
 $string['flatfile:manage'] = 'Nutzer*innen manuell in den Kurs einschreiben';
 $string['flatfile:unenrol'] = 'Nutzer*innen manuell vom Kurs abmelden';
 $string['notifyadmin'] = 'Administrator*innen benachrichtigen';

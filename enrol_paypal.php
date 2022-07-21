@@ -26,7 +26,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['enrolenddate_help'] = 'Wenn diese Option aktiviert ist, können Nutzer\\*innen nur bis zu diesem Zeitpunkt eingeschrieben werden.';
 $string['enrolstartdate_help'] = 'Wenn diese Option aktiviert ist, können Nutzer\\*innen ab diesem Zeitpunkt eingeschrieben werden.';
-$string['expiredaction_help'] = 'Wählen Sie die Aktionen, die beim Ablauf der Kurseinschreibung ausgeführt werden sollen. Beim Austragen des\\*der Nutzers\\*in aus dem Kurs werden einige Nutzer\\*indaten und Einstellungen entfernt.';
+$string['expiredaction_help'] = 'Wählen Sie die Aktionen, die beim Ablauf der Kurseinschreibung ausgeführt werden sollen. Beim Austragen des\\*der Nutzers\\*in aus dem Kurs werden einige Nutzendendaten und Einstellungen entfernt.';
 $string['mailstudents'] = 'Teilnehmer*innen benachrichtigen';
 $string['mailteachers'] = 'Trainer*innen benachrichtigen';
 $string['paypal:manage'] = 'Eingeschriebene Nutzer*innen verwalten';

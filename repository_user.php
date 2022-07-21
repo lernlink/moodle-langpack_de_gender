@@ -24,4 +24,4 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['pluginname_help'] = 'Dateien im privaten Benutzer\\*innenbereich';
+$string['pluginname_help'] = 'Dateien im privaten BeNutzendenbereich';

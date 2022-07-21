@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['confirmbulkdeleteenrolment'] = 'Möchten Sie die Einschreibungen dieser Nutzer*innen wirklich löschen?';
-$string['customwelcomemessage_help'] = 'Ein Begrüßungstext kann ein unformatierter Text sein oder im Moodle-Auto-Format auch HTML-Tags und Multi-lang-Tags enthalten. Sie können folgende Platzhalter im Text verwenden: \\* Kursname {$a->coursename} \\* Link zum Nutzer\\*inprofil {$a->profileurl} \\* Nutzer-E-Mail-Adresse {$a->email} \\* Vollständiger Nutzer\\*inname {$a->fullname}';
+$string['customwelcomemessage_help'] = 'Ein Begrüßungstext kann ein unformatierter Text sein oder im Moodle-Auto-Format auch HTML-Tags und Multi-lang-Tags enthalten. Sie können folgende Platzhalter im Text verwenden: \\* Kursname {$a->coursename} \\* Link zum Nutzendenprofil {$a->profileurl} \\* Nutzer-E-Mail-Adresse {$a->email} \\* Vollständiger Nutzendenname {$a->fullname}';
 $string['defaultrole_desc'] = 'Wählen Sie eine Rolle aus, die Nutzer\\*innen bei der Selbsteinschreibung zugewiesen werden soll.';
 $string['enrolenddate_help'] = 'Wenn diese Option aktiviert ist, können Nutzer\\*innen sich bis zum angegebenen Zeitpunkt selbst einschreiben.';
 $string['enrolstartdate_help'] = 'Wenn diese Option aktiviert ist, können Nutzer\\*innen sich ab diesem Zeitpunkt selbst in den Kurs einschreiben.';

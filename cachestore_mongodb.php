@@ -24,5 +24,5 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['password_help'] = 'Nutzer\\*innenpasswort für diese Verbindung.';
+$string['password_help'] = 'Nutzendenpasswort für diese Verbindung.';
 $string['username'] = 'Nutzer*innenname';
