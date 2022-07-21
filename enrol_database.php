@@ -26,7 +26,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['database:unenrol'] = 'Gesperrte Nutzer*innen abmelden';
 $string['dbuser'] = 'Datenbanknutzer*innen';
-$string['ignorehiddencourses_desc'] = 'Wenn diese Option aktiviert ist, werden Nutzer\\*inneninnen nicht in Kurse eingeschrieben, die für sie nicht freigegeben sind.';
+$string['ignorehiddencourses_desc'] = 'Wenn diese Option aktiviert ist, werden Nutzer\\*innen nicht in Kurse eingeschrieben, die für sie nicht freigegeben sind.';
 $string['localuserfield'] = 'Lokale*r Nutzer*in';
 $string['remoteenroltable'] = 'Externe Nutzer*innentabelle';
 $string['remoteenroltable_desc'] = 'Geben Sie den Namen der Tabelle an, die die Nutzer\\*inneneinschreibungen enthält. Leer bedeutet, dass keine Nutzer\\*innen zugeordnet werden.';
