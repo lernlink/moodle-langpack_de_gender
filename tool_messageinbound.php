@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['invalid_recipient_handler'] = 'Wenn eine Mitteilung empfangen wird, der Sender aber nicht identifiziert werden kann, verbleibt die Mitteilung auf dem E-Mail-Server. Der*die Nutzer*in wird anhand der E-Mail-Adresse im Nutzer*inprofil benachrichtigt. Er wird damit aufgefordert, die Authentizität der E-Mail zu bestätigen. Diese Funktion verarbeitet solche Antworten. Es ist nicht möglich, die Absender-Prüfung abzuschalten, da es möglich ist, dass der*die Nutzer*in mit einer falschen E-Mail-Absenderadresse antwortet, weil sein Mail-Client falsch eingerichtet ist.';
 $string['messageinboundgeneralconfiguration_desc'] = 'Moodle kann eingehende E-Mail-Mitteilungen verarbeiten. So können Antworten auf Forumsbeiträge per E-Mail vorgenommen werden oder Dateien in die persönliche Dateiablage eines\\*einer Nutzers\\*in geschickt werden.';
 $string['messageinboundhostuser'] = 'Nutzer*inname';
-$string['messageinboundhostuser_desc'] = 'Diesen Nutzer\\*innamen haben Sie für den Login zu dem E-Mail-Postfach hinterlegt.';
+$string['messageinboundhostuser_desc'] = 'Diesen Nutzendennamen haben Sie für den Login zu dem E-Mail-Postfach hinterlegt.';
 $string['messageprocessingfailedunknown'] = 'Die E-Mail \'{$a->subject}\' konnte nicht verarbeitet werden. Für weitere Informationen wenden Sie sich an eine*n Administrator*in.';
 $string['privacy:metadata:coreuserkey'] = 'Nutzer*innenschlüssel zur Prüfung der empfangenen E-Mail';
 $string['privacy:metadata:messagelist:userid'] = 'ID des*der Nutzers*in, der Mitteilung bestätigen muss';

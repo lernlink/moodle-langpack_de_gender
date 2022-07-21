@@ -26,12 +26,12 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['allowsuspends'] = 'Nutzer*insperrung und -aktivierung erlauben';
 $string['errormnetadd'] = 'Remote-Nutzer*innen können nicht hinzugefügt werden';
-$string['examplecsv_help'] = 'Um die Beispiel-Textdatei zu verwenden, laden Sie sie herunter und öffnen Sie sie dann mit einem Text- oder Tabellenkalkulationsprogramm. Lassen Sie die erste Zeile unverändert, bearbeiten Sie dann die folgenden Zeilen (Datensätze) und fügen Sie Ihre Nutzer\\*indaten hinzu, indem Sie bei Bedarf weitere Zeilen hinzufügen. Speichern Sie die Datei im CSV-Format und laden Sie sie hoch. Die Beispiel-Textdatei kann auch zum Testen verwendet werden, da Sie eine Vorschau der Nutzer\\*indaten erhalten und die Aktion abbrechen können, bevor Nutzer\\*inkonten erstellt werden.';
+$string['examplecsv_help'] = 'Um die Beispiel-Textdatei zu verwenden, laden Sie sie herunter und öffnen Sie sie dann mit einem Text- oder Tabellenkalkulationsprogramm. Lassen Sie die erste Zeile unverändert, bearbeiten Sie dann die folgenden Zeilen (Datensätze) und fügen Sie Ihre Nutzendendaten hinzu, indem Sie bei Bedarf weitere Zeilen hinzufügen. Speichern Sie die Datei im CSV-Format und laden Sie sie hoch. Die Beispiel-Textdatei kann auch zum Testen verwendet werden, da Sie eine Vorschau der Nutzendendaten erhalten und die Aktion abbrechen können, bevor Nutzendenkonten erstellt werden.';
 $string['invaliduserdata'] = 'Für den*die Nutzer*in {$a} wurden ungültige Daten entdeckt und automatisch bereinigt.';
 $string['pluginname'] = 'Nutzer*inupload';
 $string['privacy:metadata'] = 'Das Plugin \'Nutzer*in-Upload\' speichert keine personenbezogenen Daten.';
 $string['uploadpictures'] = 'Nutzer*inbilder hochladen';
-$string['uploadpictures_help'] = 'Nutzer\\*inbilder können als ZIP-Paket mit mehreren Bilddateien hochgeladen werden. Moodle ordnet die enthaltenen Dateien den Nutzendenkonten als Portrait zu, wenn die Bilddateien geeignet benannt sind. Wenn Sie als Nutzer\\*inattribut den Nutzer\\*innamen gewählt haben, wird die Bilddatei nutzer1234.jpg für das Nutzer\\*inkonto nutzer1234 verwendet. Zulässige Bilddateitypen sind gif, jpg und png.';
+$string['uploadpictures_help'] = 'Nutzendenbilder können als ZIP-Paket mit mehreren Bilddateien hochgeladen werden. Moodle ordnet die enthaltenen Dateien den Nutzendenkonten als Portrait zu, wenn die Bilddateien geeignet benannt sind. Wenn Sie als Nutzendenattribut den Nutzendennamen gewählt haben, wird die Bilddatei nutzer1234.jpg für das Nutzendenkonto nutzer1234 verwendet. Zulässige Bilddateitypen sind gif, jpg und png.';
 $string['uploadpicture_baduserfield'] = 'Die gewählte Nutzer*inmerkmal ist ungültig. Versuchen Sie es noch einmal.';
 $string['uploadpicture_cannotsave'] = 'Das Nutzer*inbild für {$a} kann nicht gespeichert werden. Prüfen Sie die ursprüngliche Bilddatei.';
 $string['uploadpicture_overwrite'] = 'Vorhandene Nutzer*inbilder überschreiben?';

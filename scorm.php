@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['aiccuserid_desc'] = 'Der AICC-Standard für Nutzendennamen ist sehr restriktiv und erlaubt ausschließlich alphanumerische Zeichen und die Sonderzeichen Bindestrich und Unterstrich. Punkte, Leerzeichen und das Symbol @ sind nicht zugelassen. Wenn diese Option aktiviert ist, werden die Nutzer\\*in-ID-Nummern an das AICC-Lernpaket übergeben und nicht die Anmeldenamen.';
-$string['allowtypeaicchacp_desc'] = 'Die Aktivierung ermöglicht AICC HACP die externe Kommunikation ohne ein Nutzer\\*inlogin zu benötigen, um Anfragen des externen AICC Pakets zu verarbeiten.';
+$string['allowtypeaicchacp_desc'] = 'Die Aktivierung ermöglicht AICC HACP die externe Kommunikation ohne ein Nutzendenlogin zu benötigen, um Anfragen des externen AICC Pakets zu verarbeiten.';
 $string['apidebugmask'] = 'API Debug Capture Mask (simple regex on <username>:<activityname>) z.B. admin:* zeigt die Debugmitteilungen nur für den*die Nutzer*in admin';
 $string['completionscorerequired_help'] = 'Wenn diese Option aktiviert ist, müssen Teilnehmer\\*innen neben anderen Anforderungen auch die angegebene Mindestpunkte erreichen, um dieses Lernpaket als \'abgeschlossen\' markieren zu können.';
 $string['completionstatusrequireddesc'] = 'Teilnehmer*in muss mindestens einen der folgenden Status erreichen: {$a}';
