@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['checkboxes_help'] = 'Tragen Sie jeweils eine Option pro Zeile ein. Die Teilnehmer\\*innen können eine oder mehrere Antworten auswählen.';
 $string['completionsubmit'] = 'Teilnehmer*innen müssen die Befragung abgeben, um abzuschließen.';
 $string['dependquestion_help'] = 'Sie können eine übergeordnete Frage und eine Auswahlmöglichkeit für die Frage wählen. Eine untergeordnete Frage wird Teilnehmer\\*innen nur dann angezeigt, wenn die übergeordnete Wahlmöglichkeit vorher ausgewählt wurde.';
-$string['essaybox_help'] = 'Diese Frage wird eine Textbox mit x Spalten (oder der entsprechenden Breite) und y Zeilen (Anzahl der Textzeilen) anzeigen. Wenn Sie beides auf dem Standardwert 0 belassen (oder es auf 0 setzen), wird der Texteditor mit Standardhöhe und -breite angezeigt (Werte aus dem Kurs- oder Nutzer\\*innenprofil).';
+$string['essaybox_help'] = 'Diese Frage wird eine Textbox mit x Spalten (oder der entsprechenden Breite) und y Zeilen (Anzahl der Textzeilen) anzeigen. Wenn Sie beides auf dem Standardwert 0 belassen (oder es auf 0 setzen), wird der Texteditor mit Standardhöhe und -breite angezeigt (Werte aus dem Kurs- oder Nutzendenprofil).';
 $string['feedbacknotes_help'] = 'Der hier angegebene Text wird den Teilnehmer\\*innen am Ende ihres Feedbackberichts angezeigt.';
 $string['modulename_help'] = 'Das Modul Befragung ermöglicht die Erstellung von Fragebögen, die die Teilnehmer\\*innen ausfüllen sollen.';
 $string['non_respondents'] = 'Teilnehmer*innen, die noch keine Antworten zu diesem Fragebogen eingereicht haben.';

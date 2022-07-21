@@ -25,4 +25,4 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['insufficientoptions'] = 'Die Auswahloptionen für diese Frage sind nicht richtig angelegt worden. Daher steht die Frage im Test nicht zur Verfügung. Informieren Sie bitte Ihre*n Trainer*in.';
-$string['pluginname_help'] = 'Aus Teilnehmer\\*innenansicht scheint dies eine Zuordnungsfrage zu sein. Der Unterschied besteht darin, dass die Fragen und Antworten zufällig aus den Kurzantwortfragen der gewählten Kategorie genommen werden. Es müssen ausreichend noch nicht genutzte Kurzantwortfragen in der Kategorie abgelegt sein. Andernfalls erscheint eine Fehlernachricht.';
+$string['pluginname_help'] = 'Aus Teilnehmendenansicht scheint dies eine Zuordnungsfrage zu sein. Der Unterschied besteht darin, dass die Fragen und Antworten zufällig aus den Kurzantwortfragen der gewählten Kategorie genommen werden. Es müssen ausreichend noch nicht genutzte Kurzantwortfragen in der Kategorie abgelegt sein. Andernfalls erscheint eine Fehlernachricht.';

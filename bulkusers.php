@@ -26,6 +26,6 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['confirmmessage'] = 'Möchten Sie wirklich eine Mitteilung an diese Nutzer*innen senden?<br />{$a}';
 $string['deleteduser'] = 'Gelöschtes Nutzer*innenkonto';
-$string['selectedlist_help'] = 'In der Auswahlliste können Nutzer\\*innenkonten hinzugefügt oder entfernt werden, indem Sie einen Namen markieren und die entsprechende Taste drücken. Um mehrere Namen gleichzeitig zu markieren, drücken Sie beim Markieren die Taste \'strg\' bzw. \'cmd\'.';
+$string['selectedlist_help'] = 'In der Auswahlliste können Nutzendenkonten hinzugefügt oder entfernt werden, indem Sie einen Namen markieren und die entsprechende Taste drücken. Um mehrere Namen gleichzeitig zu markieren, drücken Sie beim Markieren die Taste \'strg\' bzw. \'cmd\'.';
 $string['usersinlist'] = 'Nutzer*innenliste (Bulk)';
-$string['users_help'] = 'Das Filterergebnis zeigt alle gefundenen Nutzer\\*innenkonten, die zu den aktiven Filtern passen. Ist kein Filter aktiv, werden alle vorhanden Nutzer\\*innenkonten gelistet.';
+$string['users_help'] = 'Das Filterergebnis zeigt alle gefundenen Nutzendenkonten, die zu den aktiven Filtern passen. Ist kein Filter aktiv, werden alle vorhanden Nutzendenkonten gelistet.';

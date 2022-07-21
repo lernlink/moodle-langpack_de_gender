@@ -24,6 +24,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['analyticslogstore_help'] = 'Logdaten, die von der Analytics-API genutzt werden, um die Nutzer\\*innenaktivitäten auszuwerten.';
+$string['analyticslogstore_help'] = 'Logdaten, die von der Analytics-API genutzt werden, um die Nutzendenaktivitäten auszuwerten.';
 $string['errornoroles'] = 'Die Rollen von Teilnehmer*innen oder Trainer*innen wurden noch nicht definiert. Definieren Sie diese Rollen in den Analytics-Einstellungen.';
 $string['privacy:metadata:analytics:predictionactions:userid'] = 'Der*die Nutzer*in, der die Aktion ausführt';
